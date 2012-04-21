@@ -720,4 +720,12 @@
     <item msgid="1595097872875714252">"マナーモード時のみ"</item>
     <item msgid="1458182414036878616">"使用しない"</item>
   </string-array>
+
+    <!-- Dialer UI Settings -->
+    <string name="dialer_ui_settings_title">ダイヤルパッドの設定</string>
+    <string name="dialer_ui_settings_summary">ダイヤルパッドの設定</string>
+
+    <string name="phone_number_label">自分の電話番号</string>
+    <string name="phone_number_summary">この端末に電話番号をセットする</string>
+
 </resources>
