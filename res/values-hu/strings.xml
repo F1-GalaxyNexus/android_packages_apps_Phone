@@ -720,4 +720,11 @@
     <item msgid="1595097872875714252">"Csak néma üzemmódban"</item>
     <item msgid="1458182414036878616">"Soha"</item>
   </string-array>
+
+    <!-- Dialer UI Settings -->
+    <string name="dialer_ui_settings_title">Tárcsázó beállítások</string>
+    <string name="dialer_ui_settings_summary">Tárcsázó beállításai</string>
+
+    <string name="phone_number_label">Saját telefonszámom</string>
+    <string name="phone_number_summary">Állítsd be a készülékhez tartozó telefonszámot</string>
 </resources>
