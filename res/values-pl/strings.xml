@@ -720,4 +720,13 @@
     <item msgid="1595097872875714252">"Tylko po wyciszeniu"</item>
     <item msgid="1458182414036878616">"Nigdy"</item>
   </string-array>
+    
+    <!-- **** CYANOGENMOD EDITS START **** -->
+    <!-- Dialer UI Settings -->
+    <string name="dialer_ui_settings_title">Wybieranie numeru</string>
+    <string name="dialer_ui_settings_summary">Ustawienia wybierania numeru</string>
+    
+    <string name="phone_number_label">Mój numer</string>
+    <string name="phone_number_summary">Ustaw numer telefoniczny tego urządzenia</string>
+    <!-- **** CYANOGENMOD EDITS END **** -->
 </resources>
