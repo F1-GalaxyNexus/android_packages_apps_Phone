@@ -724,4 +724,12 @@
     <item msgid="1595097872875714252">"Nur im Lautlos-Modus"</item>
     <item msgid="1458182414036878616">"Nie"</item>
   </string-array>
+
+    <!-- Dialer UI Settings #CM-->
+    <string name="dialer_ui_settings_title">Wähltasten</string>
+    <string name="dialer_ui_settings_summary">Einstellungen für die Nummernwahltasten</string>
+
+    <!-- Set Phone Number Settings #CM-->
+    <string name="phone_number_label">Meine Nummer</string>
+    <string name="phone_number_summary">Die Telefonnummer für dieses Gerät einstellen</string>
 </resources>
