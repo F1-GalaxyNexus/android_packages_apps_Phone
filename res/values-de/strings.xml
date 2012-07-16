@@ -732,4 +732,10 @@
     <!-- Set Phone Number Settings #CM-->
     <string name="phone_number_label">Meine Nummer</string>
     <string name="phone_number_summary">Die Telefonnummer für dieses Gerät einstellen</string>
+
+    <!-- Noise suppression -->
+    <string name="noise_suppression_title">Lärmunterdrückung</string>
+    <string name="noise_suppression_summary">Aktiviere Lärmunterdrückung für Anrufe</string>
+    <!-- End Noise suppression -->
+
 </resources>
